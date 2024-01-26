@@ -1,0 +1,44 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LO.Meta.LOBuildingCardMeta" preserve="all" />
+    <type fullname="LO.Meta.LOCardBookMeta" preserve="all" />
+    <type fullname="LO.Meta.LODisasterGroupMeta" preserve="all" />
+    <type fullname="LO.Meta.LODisasterMeta" preserve="all" />
+    <type fullname="LO.Meta.LODisasterSequenceMeta" preserve="all" />
+    <type fullname="LO.Meta.LODisasterTechTreeMeta" preserve="all" />
+    <type fullname="LO.Meta.LOFunctionalCardMeta" preserve="all" />
+    <type fullname="LO.Meta.LOGameLevelListMeta" preserve="all" />
+    <type fullname="LO.Meta.LOGameLevelMeta" preserve="all" />
+    <type fullname="LO.Meta.LOProductionCardMeta" preserve="all" />
+    <type fullname="LO.Meta.LOTaxSequenceMeta" preserve="all" />
+    <type fullname="LO.Meta.LOTechTestMeta" preserve="all" />
+    <type fullname="LO.Meta.LOTechTreeMeta" preserve="all" />
+    <type fullname="LO.Meta.LOTechTreeNodeMeta" preserve="all" />
+    <type fullname="LO.Meta.LOTestListMeta" preserve="all" />
+    <type fullname="LO.Meta.LOCardBasicProperties" preserve="nothing" serialized="true" />
+    <type fullname="LO.Meta.LOCardBuildingProperties" preserve="nothing" serialized="true" />
+    <type fullname="LO.Meta.LOCardProductionProperties" preserve="nothing" serialized="true" />
+    <type fullname="LO.Meta.LODisasterSequenceUnit" preserve="nothing" serialized="true" />
+    <type fullname="LO.Meta.LODisasterTechPair" preserve="nothing" serialized="true" />
+    <type fullname="LO.Meta.LOFunctionalCardProperties" preserve="nothing" serialized="true" />
+    <type fullname="LO.Meta.LOTaxMeta" preserve="nothing" serialized="true" />
+    <type fullname="LO.Meta.LOTechTest" preserve="nothing" serialized="true" />
+    <type fullname="LO.Meta.LOTechTreeIndex" preserve="nothing" serialized="true" />
+    <type fullname="LO.Meta.LOTechUnlockInfo" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+  </assembly>
+</linker>
