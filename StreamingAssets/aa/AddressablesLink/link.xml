@@ -9,6 +9,7 @@
     <type fullname="LO.Meta.LOFunctionalCardMeta" preserve="all" />
     <type fullname="LO.Meta.LOGameLevelListMeta" preserve="all" />
     <type fullname="LO.Meta.LOGameLevelMeta" preserve="all" />
+    <type fullname="LO.Meta.LOInGameQuizMeta" preserve="all" />
     <type fullname="LO.Meta.LOProductionCardMeta" preserve="all" />
     <type fullname="LO.Meta.LOTaxSequenceMeta" preserve="all" />
     <type fullname="LO.Meta.LOTechTestMeta" preserve="all" />
@@ -25,6 +26,7 @@
     <type fullname="LO.Meta.LOTechTest" preserve="nothing" serialized="true" />
     <type fullname="LO.Meta.LOTechTreeIndex" preserve="nothing" serialized="true" />
     <type fullname="LO.Meta.LOTechUnlockInfo" preserve="nothing" serialized="true" />
+    <type fullname="LO.Meta.Quiz" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
